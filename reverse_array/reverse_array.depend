@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1621738575 source:c:\users\kiit\desktop\study\c++\reverse_array\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+
