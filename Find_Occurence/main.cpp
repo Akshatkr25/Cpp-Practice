@@ -22,7 +22,7 @@ int main() {
 }
     int a;
     cin>>a;
-    cout<<findOccurence(arr,x,a);
+    cout<<"findOccurence of "<<a<<" is: "<<findOccurence(arr,x,a);
 
         return 0;
 }
